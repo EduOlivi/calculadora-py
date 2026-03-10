@@ -31,7 +31,7 @@ class App(ctk.CTk):
         self.back = LogicaCalculadora()
 
         # Configurações da Janela
-        self.title("Calculadora Neon Dark")
+        self.title("Calculadora")
         self.geometry("300x450")
         ctk.set_appearance_mode("dark") 
         
